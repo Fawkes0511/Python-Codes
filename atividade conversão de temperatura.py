@@ -1,5 +1,5 @@
 # Programa para inserir cidade, temperatura e escala.
-cidade = input('Digite sua cidade: ').strip()
+cidade = input('Digite o nome da sua cidade: ').strip()
 temperatura = float(input('Digite a temperatura da sua cidade: '))
 escala = input('Digite a escala.ex(K,C OU F): ')
 
